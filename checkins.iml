@@ -63,5 +63,15 @@
     <orderEntry type="library" name="Maven: com.google.maps:google-maps-services:0.1.8" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okhttp:okhttp:2.0.0" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.ptgoetz:storm-jms:0.9.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:activemq-kahadb-store:5.11.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:activemq-broker:5.11.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:activemq-client:5.11.1" level="project" />
+    <orderEntry type="library" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:activemq-openwire-legacy:5.11.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq.protobuf:activemq-protobuf:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-net:commons-net:3.3" level="project" />
   </component>
 </module>
